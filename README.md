@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kanishk
-- 👀 I’m interested in 
+- 👀 I’m interested in Coding and music
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning, NPL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on multinational companies like Adobe, IBM, Accenture, etc
 - 📫 How to reach me:- For whatsapp->7667768917 or Mail->rkanishk092@gmail.com
 
 <!---
